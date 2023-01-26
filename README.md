@@ -1,4 +1,7 @@
 # Music Project
+
+Tyrannosaurus Rex for breakfast
+
 ## My Project
 ### Another thingy magiggy
 
