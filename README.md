@@ -1,6 +1,6 @@
 # Music Project
 
-Tyrannosaurus Rex for breakfast yum yum in my tummy
+Tyrannosaurus Rex for breakfast yum yum in my tummy gried
 
 ## My Project
 ### Another thingy magiggy
